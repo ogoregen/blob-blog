@@ -1,4 +1,4 @@
-flighty.xyz is a minimalist, article focused blog. Published as a potential inspiration source.
+blob-blog is a minimalist, article focused blog. Published as a potential inspiration source.
 
 ## Features
 
@@ -11,4 +11,4 @@ flighty.xyz is a minimalist, article focused blog. Published as a potential insp
 
 - [Parsedown](https://parsedown.org)
 
-flighty.xyz uses icons from [css.gg](https://css.gg) and the [Inter](https://rsms.me/inter) font.
+blob-blog uses icons from [css.gg](https://css.gg) and the [Inter](https://rsms.me/inter) font.
