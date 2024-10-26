@@ -1,4 +1,4 @@
-blob-blog is a minimalist, article focused blog featuring a Markdown CMS. developed some years ago.
+blob-blog is a minimalist, article focused blog featuring a Markdown CMS. made some years ago.
 
 ## Features
 
